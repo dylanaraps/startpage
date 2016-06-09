@@ -4,6 +4,9 @@
 // Import Colors
 @import '/home/dylan/.colors/colors.scss';
 
+// Variables
+$width: 400px;
+
 html,
 body,
 ul {
@@ -32,20 +35,20 @@ h1 {
     display: block;
     margin: 0 auto;
     text-align: left;
-    width: 400px;
+    width: $width;
 }
 
 hr {
     border: 0;
     border-top: 1px solid $color6;
     opacity: .4;
-    width: 400px;
+    width: $width;
 }
 
 ul {
     display: block;
     margin: 0 auto;
-    width: 400px;
+    width: $width;
 }
 
 li {
