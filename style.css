@@ -8,14 +8,14 @@ ul {
 }
 
 body {
-  background: #f0f0f0;
+  background: #191C26;
   height: 100%;
   width: 100%;
 }
 
 main {
   display: block;
-  font-family: 'Roboto';
+  font-family: 'Noto Sans';
   left: 50%;
   position: absolute;
   top: 45%;
@@ -24,7 +24,7 @@ main {
 }
 
 h1 {
-  color: #99736e;
+  color: #A18E73;
   display: block;
   margin: 0 auto;
   text-align: left;
@@ -33,7 +33,7 @@ h1 {
 
 hr {
   border: 0;
-  border-top: 1px solid #99BFBA;
+  border-top: 1px solid #D8C7B7;
   opacity: .4;
   width: 400px;
 }
@@ -45,7 +45,7 @@ ul {
 }
 
 li {
-  color: #BF9C86;
+  color: #CFB4A8;
   display: inline-block;
   font-size: 1.2em;
   line-height: 1.5;
@@ -54,11 +54,11 @@ li {
 }
 
 a {
-  color: #7c9fa6;
+  color: #A19C96;
   text-decoration: none;
   transition: .2s;
 }
 
 a:hover {
-  color: #70838c;
+  color: #666666;
 }
