@@ -8,7 +8,7 @@ ul {
 }
 
 body {
-  background: #191C26;
+  background: #061E26;
   height: 100%;
   width: 100%;
 }
@@ -24,7 +24,7 @@ main {
 }
 
 h1 {
-  color: #A18E73;
+  color: #5C5D5B;
   display: block;
   margin: 0 auto;
   text-align: left;
@@ -33,7 +33,7 @@ h1 {
 
 hr {
   border: 0;
-  border-top: 1px solid #D8C7B7;
+  border-top: 1px solid #658389;
   opacity: .4;
   width: 400px;
 }
@@ -45,7 +45,7 @@ ul {
 }
 
 li {
-  color: #CFB4A8;
+  color: #C99664;
   display: inline-block;
   font-size: 1.2em;
   line-height: 1.5;
@@ -54,7 +54,7 @@ li {
 }
 
 a {
-  color: #A19C96;
+  color: #C97549;
   text-decoration: none;
   transition: .2s;
 }
